@@ -1,0 +1,26 @@
+#you {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    max-width: 90%;
+    margin: 1% auto;
+    padding: .4rem;
+    
+}
+
+#him {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    margin: 1% auto;
+    padding: .4rem;
+}
+
+#he {
+    background-color: #E9F1FF;
+    border-radius: 5px;
+}
